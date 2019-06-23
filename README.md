@@ -1,3 +1,8 @@
+# Project 0
+
+Web Programming with Python and JavaScript
+
+
 CS50W Project0 
 A website created using html and css only.
 It's a food website containing 4 pages.

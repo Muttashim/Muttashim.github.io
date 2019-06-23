@@ -48,6 +48,12 @@ $margin-large: 20px;
 	margin-bottom: 30px;
 }
 
+@media only screen and (max-width: 450px){
+	.blogs img{
+		width:300px;
+	}
+}
+
 .card_ {
   margin: $margin-large;
   padding-left: $padding-and-margin;
